@@ -54,7 +54,7 @@ Using Grid properly
 
 ### Continued development
 
-- Giving some thought to Accessibility and backward compatibility.
+- Understaning advanced flexbox and grid.
 
 ### Useful resources
 
