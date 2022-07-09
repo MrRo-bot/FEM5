@@ -14,7 +14,7 @@
 
 ## Overview
 
-Creating a Single price Grid component
+Created NEWBIE Single price Grid component
 
 ### The challenge
 
@@ -26,8 +26,9 @@ Using Grid properly
 
 ### Links
 
-- GITHUB REPO: [https://github.com/MrRo-bot/FEM5]
-- Solution URL: [https://codepen.io/Mr-RO13OT/pen/QWdVBqx]
+- GITHUB REPO: [https://github.com/MrRo-bot/single-price-grid-component]
+
+- Solution URL: [https://codepen.io/Mr-RO13OT/full/QWdVBqx]
 
 ## My process
 
